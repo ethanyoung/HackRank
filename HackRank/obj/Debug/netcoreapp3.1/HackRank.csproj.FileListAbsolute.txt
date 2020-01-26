@@ -1,0 +1,11 @@
+C:\Users\ethan\Source\Repos\HackRank\HackRank\obj\Debug\netcoreapp3.1\HackRank.csprojAssemblyReference.cache
+C:\Users\ethan\Source\Repos\HackRank\HackRank\obj\Debug\netcoreapp3.1\HackRank.AssemblyInfoInputs.cache
+C:\Users\ethan\Source\Repos\HackRank\HackRank\obj\Debug\netcoreapp3.1\HackRank.AssemblyInfo.cs
+C:\Users\ethan\Source\Repos\HackRank\HackRank\bin\Debug\netcoreapp3.1\HackRank.exe
+C:\Users\ethan\Source\Repos\HackRank\HackRank\bin\Debug\netcoreapp3.1\HackRank.deps.json
+C:\Users\ethan\Source\Repos\HackRank\HackRank\bin\Debug\netcoreapp3.1\HackRank.runtimeconfig.json
+C:\Users\ethan\Source\Repos\HackRank\HackRank\bin\Debug\netcoreapp3.1\HackRank.runtimeconfig.dev.json
+C:\Users\ethan\Source\Repos\HackRank\HackRank\bin\Debug\netcoreapp3.1\HackRank.dll
+C:\Users\ethan\Source\Repos\HackRank\HackRank\bin\Debug\netcoreapp3.1\HackRank.pdb
+C:\Users\ethan\Source\Repos\HackRank\HackRank\obj\Debug\netcoreapp3.1\HackRank.dll
+C:\Users\ethan\Source\Repos\HackRank\HackRank\obj\Debug\netcoreapp3.1\HackRank.pdb
